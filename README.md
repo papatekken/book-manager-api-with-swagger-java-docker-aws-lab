@@ -4,8 +4,7 @@ Tech Returners Execrise
 
 Allan Yip
 
-##Solution - Following steps have been done
-
+## Solution - Following steps have been done
 1)create JAR file with mvn command
 
 2)create image with docker locally
