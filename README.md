@@ -1,6 +1,6 @@
 # Building and Deploying a Java application with Docker
 
-Tech Returners Execrise 
+Tech Returners Exercise 
 
 Allan Yip
 
