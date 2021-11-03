@@ -1,5 +1,21 @@
 # Building and Deploying a Java application with Docker
 
+Tech Returners Execrise 
+
+Allan Yip
+
+##Solution - Following steps have been done
+
+1)create JAR file with mvn command
+
+2)create image with docker locally
+
+3)send project with docker file to AWS and deploy
+
+4)update application profile to change database from h2 to a mySQL database at RDS, create JAR and deploy it to AWS again.
+
+5)screenshot file produced and located in folder '\screenshot'
+
 ## Introduction
 This repository is designed to guide you through containerising a Spring boot application using [Docker](https://www.docker.com/).
 
